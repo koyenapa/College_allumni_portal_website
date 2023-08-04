@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49df0d57.css",
+    "main.js": "/static/js/main.787365be.js",
+    "static/js/787.262be655.chunk.js": "/static/js/787.262be655.chunk.js",
+    "static/media/1681139215088.jpg": "/static/media/1681139215088.faaa55c4d64f8684aa1c.jpg",
+    "static/media/My project.png": "/static/media/My project.cb5ccdaa3467ef0e839b.png",
+    "static/media/login_background.gif": "/static/media/login_background.d971fd80f370f10007b8.gif",
+    "static/media/tehnolgy.jpg": "/static/media/tehnolgy.8b143664511c61174be5.jpg",
+    "static/media/contactBg.jpg": "/static/media/contactBg.46e1dbd4923856ee0a86.jpg",
+    "static/media/1681094203055.jpg": "/static/media/1681094203055.6cee37c5b94364b5dbb4.jpg",
+    "static/media/LOGO_KRITANJ.png": "/static/media/LOGO_KRITANJ.00246e3cf86c8b26f380.png",
+    "static/media/LOGO_KRITANJ - 2.png": "/static/media/LOGO_KRITANJ - 2.3160fc3e4c0f75dfb4d5.png",
+    "index.html": "/index.html",
+    "main.49df0d57.css.map": "/static/css/main.49df0d57.css.map",
+    "main.787365be.js.map": "/static/js/main.787365be.js.map",
+    "787.262be655.chunk.js.map": "/static/js/787.262be655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49df0d57.css",
+    "static/js/main.787365be.js"
+  ]
+}
